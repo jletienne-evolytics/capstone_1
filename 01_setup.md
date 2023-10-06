@@ -18,7 +18,7 @@ $ cd capstone_1
 Okay let's open VS Code. Don't forget the period!
 $ code .
 
-![](screenshots\Capstone 1.png)
+![](./screenshots/Capstone 1.png)
 
 Let's create a new file called test.py Cool run it.
 
