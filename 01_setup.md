@@ -1,47 +1,57 @@
-
-
-#Setup
+# Setup
 
 Okay let's do that create our project folder
 
 
-Cd (Change directory into your project folder)<br>
-$ cd<br>
-$ cd Desktop<br>
+Cd (Change directory into your project folder)
+```
+cd
+cd Desktop
+```
 
 Let's create the folder<br>
-$ mkdir capstone_1<br>
+```
+mkdir capstone_1
+```
 
-Enter the folder<br>
-$ cd capstone_1<br>
+Enter the folder
+```
+cd capstone_1
+```
 
 Okay let's open VS Code. Don't forget the period!<br>
-$ code .<br>
+```
+code .
+```
 
 ![](screenshots/Capstone%201.png)
 
-Let's create a new file called test.py Cool run it.<br>
+Let's create a new file called ```test.py```. Cool run it. 
+
+![](screenshots/Capstone%204.png)
+
+Nice it works!
+
+Cool let's set this virtual environment up.
+
+Into the VS Code terminal we go
+```
+virtualenv -p python3 venv
+```
+
+![](screenshots/Capstone%203a.png)
+
+You get this pop up might as well press yes. It activates the virtual environment automatically
+
+![](screenshots/Capstone%203.png)
 
 
 
-Nice it works!<br>
+If yours doesn't activate the virtual env automatically, use this
+```
+. venv/bin/activate
+```
 
+Check the front it says venv. Congrats you are set up.<br>
 
-Cool let's set this virtual environment up.<br>
-
-
-You get this pop up might as well press yes. It activates the virtual environment automatically<br>
-
-Into the vs code terminal we go<br>
-$ virtualenv -p python3 venv<br>
-
-
-
-
-Maybe yours activates the virtual (venv) automatically. If it doesn't just use this<br>
-$ . venv/bin/activate<br>
-
-
-Check the front it says venv.<br>
-
-Congrats you are set up.<br>
+![](screenshots/Capstone%205.png)
