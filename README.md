@@ -6,3 +6,6 @@ Start at `00_intro.md`.
 
 
 When you get to `04_notebook.md` start looking in the `/notebooks` folder
+
+
+Good luck! One line at a time
