@@ -49,8 +49,8 @@ Nice and simple let's check what's inside league
 
 ![](screenshots/Capstone%2015.png)
 
-If you check how many rosters are in the league you get 10.
-So we know there's 5 games each week
+If you check how many rosters are in the league you get 12.
+So we know there's 6 games each week
 ```
 league['total_rosters']
 ```
