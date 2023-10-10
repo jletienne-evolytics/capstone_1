@@ -33,7 +33,7 @@ Python is perfect
 
 Cool let's mess around in this Notebook. Easy enough yeah?
 
-Note: Escape then B to create a new box
+Note: Escape then B to create a new box. You can find jupyter notebook cheat sheets online if needed
 
 ![](screenshots/Capstone%2013.png)
 
