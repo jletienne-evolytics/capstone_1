@@ -5,7 +5,7 @@
 
 Okay the pieces are starting to come together.
 
-We've done some python, some notebook. We're getting there trust. Let's try wrapping this baby up. Create a file called `get_all_sleeper_data.py`
+We've done some python, some notebook. We're getting there, trust. Let's try wrapping this baby up. Create a file called `get_all_sleeper_data.py`
 
 
 ![](screenshots/Capstone%2023.png)
