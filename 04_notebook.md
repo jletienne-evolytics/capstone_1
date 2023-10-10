@@ -16,7 +16,7 @@ It looks like this
 
 We can run whatever python we want in here.
 
-Might need to install Capstone + Jupyter
+Might need to install Python + Jupyter
 
 ![](screenshots/Capstone%209.png)
 
