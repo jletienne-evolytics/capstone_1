@@ -38,6 +38,6 @@ At this point go into the notebook called 05_team_data. notebooks/05_team_data.i
 
 ![](screenshots/Capstone%2018.png)
 
-You may need to create a folder called rawdata
+You may need to create a folder called raw_data
 
 ![](screenshots/Capstone%2019.png)
