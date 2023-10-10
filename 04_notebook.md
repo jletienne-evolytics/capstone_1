@@ -33,14 +33,14 @@ Python is perfect
 
 Cool let's mess around in this Notebook. Easy enough yeah?
 
-Note: Escape then B to create a new box. You can find jupyter notebook cheat sheets online if needed
+Note: Escape then B to create a new box below. You can find jupyter notebook cheat sheets online if needed
 
 ![](screenshots/Capstone%2013.png)
 
 
-Okay let's bring in our file from `test.py`
+Okay let's bring in our code from file `test.py`
 
-Note! Escape then B to create a new box
+Note: Escape then B to create a new box below
 
 ![](screenshots/Capstone%2014.png)
 
