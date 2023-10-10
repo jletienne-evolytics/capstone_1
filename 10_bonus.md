@@ -9,7 +9,7 @@ Well before, we had no data. And no we have production ready data in `prod_data\
 
 ### So what do we do with this data?
 
-Excellent question, we can visualize/analyze our data. Any tool could work Tableau Public is free for example.
+Excellent question, we can visualize/analyze our data. Any tool could work, Tableau Public is free for example.
 
 But today let's just use excel. Open up the file and save as an Excel, easy enough.
 
