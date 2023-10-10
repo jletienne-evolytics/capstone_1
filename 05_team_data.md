@@ -5,7 +5,7 @@ Ok the bulk of the capstone project. Let's check the matches to see who won or l
 
 Let's just do week 1. We'll do one team and go from there can do one team.
 
-Follow along at `notebooks/05_team_data.ipynb`
+***** Follow along at `notebooks/05_team_data.ipynb` !!!! *****
 
 
 -------
