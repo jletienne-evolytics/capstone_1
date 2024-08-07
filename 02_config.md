@@ -26,6 +26,5 @@ It looks like this in your `config.yaml` file
 ![](screenshots/Capstone%202.png)
 
 [I REPEAT DO NOT USE GITHUB TO STORE TOKENS IN A REAL ENVIRONMENT]
-You do this so people don't take your Sleeper League ID and create python training around your league.
 
 Let's try testing it!
