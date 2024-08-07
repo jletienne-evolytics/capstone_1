@@ -1,7 +1,7 @@
 
 # First Test
 
-Might as well put that test file to use.
+Let's put the test file to use.
 Let's look at what the developers at sleeper have in store for us.
 
 They surely must have a website that properly documents their API
@@ -47,23 +47,20 @@ How's this one look?
 
 At the top notice we're importing *yaml* now, since we created `config.yaml` in the previous lesson. So might get an error that yaml can't be found
 
-I'm really glossing over this stuff right now. What's r? what's r.text? what's safe_load()
+Apologies, for glossing over this stuff right now. What's r? what's r.text? what's safe_load()
 
-Great questions my friend.
+Great questions my friend. (Feel free to google if anything is too fast, reminder always reach out and ask questions if needed)
 
-Also I skipped teaching about JSON objects in the teaching. My fault.
-It's just a dictionary.
-
-If you don't believe me, you can read more about it here
+I may have skipped about JSON objects in the teaching. It's okay!
+For our purposes it's almosst the same as a dictionary, you can read more about it here
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 
 
-
-I joke, sometimes it gets overwhelming. Just breathe and take it step by step. Here's an explanation of what's going on.
+Just breathe and take it step by step. Here's an explanation of what's going on.
 
 ![](screenshots/Capstone%207.png)
 
-Very important notice at the bottom, it says 200! We're returning a dictionary!
+Very important notice at the bottom, it says 200! 200 means valid! We're returning a dictionary!
 
 
 Congrats you passed your first test! Believe in yourself
@@ -71,10 +68,8 @@ Congrats you passed your first test! Believe in yourself
 
 # What if you failed
 
-If you failed, just don't blame yourself. Matter of  yourself. Blame your alarm clock, blame your broken keyboard. Blame the lunar calendar.
-Whatever you do don't blame yourself, it's not your fault. The coffee was cold this morning
+If you failed, it's okay stay patient.
 
-If you failed, you don't get 200, there's no data being returned in the terminal. Just reach out to Gabby Lopez or Kate Marxkors.
-No one needs to do go through this alone!
+If you failed, you don't get 200, there's no data being returned in the terminal. Just reach out for help. You're almost there
 
-[serious] In all seriousness, they can be your guiding spirit animals.
+[serious] It's likely a small blocker that's obvious in hindsight, that's normal. Keep trying :) 
