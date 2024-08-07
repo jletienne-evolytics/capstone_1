@@ -2,7 +2,7 @@
 
 # Bonus
 
-If you got this far, you may have a so what feeling. What exactly did we accomplish.
+If you got this far, you may have a "so what" feeling. What exactly did we accomplish.
 
 
 Well before, we had no data. And no we have production ready data in `prod_data\final_teams.csv`
