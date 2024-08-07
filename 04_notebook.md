@@ -2,11 +2,11 @@
 
 # Notebook
 
-Aka jupyter notebook, aka databricks.
+Based off of jupyter notebook. If you work in Databricks in the past/future this will look similar
 
-There comes a time where your tools just aren't strong enough. It's possible but kind of hard to just develop in the terminal.
+There comes a time where your tools just aren't strong enough. It's possibl, but tedious, to just develop in the terminal.
 
-Let's get a notebook going.
+Let's get a notebook going. It will make it easier to debug our workflow
 
 Create a new file called `notebook.ipynb`
 
